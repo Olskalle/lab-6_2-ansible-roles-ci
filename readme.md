@@ -1,0 +1,21 @@
+Создаем новый репозиторий с файлами из прошлой работы. Затем в настройках репозитория активируем пайплайны:
+
+![Pasted image 20251214172625.png](attachments/Pasted%20image%2020251214172625.png)
+
+Создаем тестовый пайплайн, и пушим его:
+
+![Pasted image 20251214174610.png](attachments/Pasted%20image%2020251214174610.png)
+
+![Pasted image 20251214174716.png](attachments/Pasted%20image%2020251214174716.png)
+
+![Pasted image 20251214174750.png](attachments/Pasted%20image%2020251214174750.png)
+
+Аналогичные действия выполняем для пайплайна lint:
+
+Получаем ошибку:
+
+![Pasted image 20251214181702.png](attachments/Pasted%20image%2020251214181702.png)
+
+Исправляем опечатку и запускаем заново:
+
+![Pasted image 20251214182042.png](attachments/Pasted%20image%2020251214182042.png)
